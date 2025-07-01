@@ -281,6 +281,6 @@ python mau.py
 
 ## 🎉 Kết luận
 
-Game "Hệ thống mã hóa ngân hàng" đã được test toàn diện và sẵn sàng cho việc báo cáo và demo!
+Game "Hệ thống mã hóa ngân hàng" đã được test toàn diện!
 
 **Lưu ý**: Chạy test này trước khi báo cáo để đảm bảo mọi chức năng hoạt động hoàn hảo.
